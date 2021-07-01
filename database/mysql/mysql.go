@@ -2,8 +2,8 @@ package storage
 
 import (
 	"fmt"
-	cfg "gitlab.zalopay.vn/bankintergration/offline-funding/offline-funding-common/config"
-	"gitlab.zalopay.vn/bankintergration/offline-funding/offline-funding-common/logger"
+	cfg "github.com/ducquyen2509/common-go/config"
+	"github.com/ducquyen2509/common-go/logger"
 	"github.com/astaxie/beego/orm"
 	_ "github.com/go-sql-driver/mysql"
 	"os"

@@ -7,7 +7,7 @@ import (
 
 	kafka "github.com/Shopify/sarama"
 
-	"gitlab.zalopay.vn/bankintergration/offline-funding/offline-funding-common/logger"
+	"github.com/ducquyen2509/common-go/logger"
 )
 
 //Writer ...

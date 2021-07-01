@@ -1,4 +1,4 @@
-module gitlab.zalopay.vn/bankintergration/offline-funding/offline-funding-common
+module github.com/ducquyen2509/common-go
 
 go 1.13
 
